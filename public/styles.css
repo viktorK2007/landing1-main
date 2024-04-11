@@ -473,7 +473,7 @@ textarea {
 .the_method_box_bacground_3 {
   width: 80vw;
   height: 19vh;
-  background-color: #C0CEBF;
+  background-color: #c0cebf;
   border-radius: 69px;
   margin-top: 14vh;
   margin-left: 3.1vw;
@@ -500,6 +500,32 @@ textarea {
   margin-top: 2vw;
   width: 74vw;
   margin-left: 2vw;
+}
+
+.crivaya_line {
+  margin-top: 16vh;
+  margin-left: 7vw;
+}
+
+.girl {
+  margin-top: 4vh;
+  margin-left: 3vw;
+
+}
+
+.girl_text{
+  font-size: 26px;
+  font-family: "Jost", sans-serif;
+}
+
+.girl_text_flex{
+  display: flex;
+}
+
+.girl_text_box{
+  width: 62vw;
+  margin-left: 5vw;
+  margin-top: 8vh;
 }
 /* 
 .forma {

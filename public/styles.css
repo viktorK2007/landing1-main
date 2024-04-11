@@ -578,6 +578,24 @@ textarea {
 .blok_2 {
   position: relative;
 }
+
+.list_2 {
+  margin-left: 43.9vw;
+  margin-bottom: 4vw;
+}
+
+.V_line {
+  position: absolute;
+  height: 34vh;
+  border-right: 1px solid;
+  margin-left: 50.4vw;
+  margin-top: 3vh;
+}
+
+.pizdets {
+  margin-left: 5vw;
+  margin-top: 6vh;
+}
 /* 
 .forma {
   background-color: #6d9bd1;

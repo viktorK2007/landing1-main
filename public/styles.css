@@ -1,5 +1,5 @@
 body {
-  background-color: #F2EAEA;
+  background-color: #f2eaea;
   margin: 0;
 
   width: 100%;
@@ -25,7 +25,6 @@ html {
   font-style: normal;
 }
 
-
 a {
   color: #000 !important;
   text-decoration: none;
@@ -37,7 +36,6 @@ p {
 }
 
 .imj {
-
   background-size: cover;
   height: 100vh;
   width: 100vw;
@@ -51,7 +49,6 @@ textarea {
   font-size: 16px;
   color: white;
 }
-
 
 .text_title {
   font-size: 50px;
@@ -165,7 +162,6 @@ textarea {
   margin-left: 3vw;
 }
 
-
 .grup_text_title {
   display: flex;
   margin-right: 3vw;
@@ -178,9 +174,8 @@ textarea {
   background-color: #c6bfce;
   border-radius: 20px;
   margin-left: 4vw;
-  margin-top: 2vw
+  margin-top: 2vw;
 }
-
 
 .text_line {
   height: 31vh;
@@ -201,14 +196,13 @@ textarea {
   border-top: 1px solid;
   width: 30vw;
   margin-left: 6vw;
-  margin-top: 6vh
+  margin-top: 6vh;
 }
 
 .sad_line_flex {
   display: flex;
   justify-content: space-between;
   margin-right: 1vw;
-
 }
 
 .text_sad_line {
@@ -237,11 +231,10 @@ textarea {
   display: flex;
   margin-top: 5vh;
   margin-right: 3vw;
-
 }
 
 .image_3_background {
-  background-color: #81A0D0;
+  background-color: #81a0d0;
   width: 413px;
   height: 239px;
   margin-top: 5vh;
@@ -284,8 +277,9 @@ textarea {
 
 .class_amg4 {
   width: 100vw;
-  background: url(./images/will-van-wingerden-87463-e1549022529660\ 1.png) center / cover no-repeat;
-  height: 20vh
+  background: url(./images/will-van-wingerden-87463-e1549022529660\ 1.png)
+    center / cover no-repeat;
+  height: 20vh;
 }
 
 .box_you {
@@ -339,21 +333,20 @@ textarea {
   position: absolute;
   width: 38vw;
   height: 5vh;
-  background-color: #EBE1E1;
+  background-color: #ebe1e1;
   border-radius: 20px;
   margin-left: 4vw;
   margin-top: 8vh;
   box-shadow: 6px 3px 4px gray;
   font-size: 30px;
   font-family: "Jost", sans-serif;
-
 }
 
 .box_choice_text {
   position: absolute;
   width: 66vw;
   height: 22vh;
-  background-color: #CBD5CA;
+  background-color: #cbd5ca;
   margin-left: 30vw;
   margin-top: 10vh;
   border-radius: 20px;
@@ -383,7 +376,7 @@ textarea {
 .the_method {
   font-size: 50px;
   font-family: "Bad Script", cursive;
-
+  margin-left: 3vw;
 }
 
 .the_method_flex {
@@ -394,14 +387,14 @@ textarea {
 .the_method_line {
   margin-left: 3vw;
   height: 4vh;
-  width: 76vw;
+  width: 72vw;
   border-bottom: 1px solid;
 }
 
 .the_method_box_bacground_1 {
   width: 77vw;
   height: 19vh;
-  background-color: #C6BFCE;
+  background-color: #c6bfce;
   border-radius: 69px;
   margin-top: 4vh;
   margin-left: 5.1vw;
@@ -411,7 +404,7 @@ textarea {
 .the_method_box_text_1 {
   width: 77vw;
   height: 19vh;
-  background-color: #F4EEEE;
+  background-color: #f4eeee;
   border-radius: 69px;
   margin-top: 3vh;
   margin-left: 4vw;
@@ -433,23 +426,22 @@ textarea {
   margin-top: 2vw;
   width: 74vw;
   margin-left: 2vw;
-
 }
 
 .the_method_box_bacground_2 {
   width: 77vw;
   height: 23vh;
-  background-color: #E2B6B6;
+  background-color: #e2b6b6;
   border-radius: 69px;
   margin-top: 15vh;
   margin-left: 21vw;
-  position: absolute
+  position: absolute;
 }
 
 .the_method_box_text_2 {
   width: 77vw;
   height: 23vh;
-  background-color: #F4EEEE;
+  background-color: #f4eeee;
   border-radius: 69px;
   margin-top: 14vh;
   margin-left: 20vw;
@@ -462,7 +454,6 @@ textarea {
   margin-top: 1.2vw;
   width: 74vw;
   margin-left: 3vw;
-
 }
 
 .the_method_box_2 {
@@ -474,6 +465,42 @@ textarea {
   margin-left: 4vw;
 }
 
+.svc_messeng {
+  margin-left: 86vw;
+  margin-top: 19vh;
+}
+
+.the_method_box_bacground_3 {
+  width: 80vw;
+  height: 19vh;
+  background-color: #C0CEBF;
+  border-radius: 69px;
+  margin-top: 14vh;
+  margin-left: 3.1vw;
+  position: absolute;
+}
+
+.the_method_box_text_3 {
+  width: 80vw;
+  height: 19vh;
+  background-color: #f4eeee;
+  border-radius: 69px;
+  margin-top: 13vh;
+  margin-left: 4vw;
+  position: absolute;
+}
+
+.the_method_box_3 {
+  position: relative;
+}
+
+.gipnoz_3 {
+  font-size: 26px;
+  font-family: "Jost", sans-serif;
+  margin-top: 2vw;
+  width: 74vw;
+  margin-left: 2vw;
+}
 /* 
 .forma {
   background-color: #6d9bd1;

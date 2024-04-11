@@ -510,29 +510,73 @@ textarea {
 .girl {
   margin-top: 4vh;
   margin-left: 3vw;
-
 }
 
-.girl_text{
+.girl_text {
   font-size: 26px;
   font-family: "Jost", sans-serif;
 }
 
-.girl_text_flex{
+.girl_text_flex {
   display: flex;
 }
 
-.girl_text_box{
+.girl_text_box {
   width: 62vw;
   margin-left: 3vw;
   margin-top: 8vh;
 }
 
-.price{
+.price {
   font-size: 50px;
   font-family: "Bad Script", cursive;
   margin-left: 5vw;
   margin-top: 13vh;
+}
+
+.blok_flex {
+  display: flex;
+}
+
+.blok_text_1 {
+  margin-left: 11vw;
+  width: 30vw;
+  height: 30vw;
+  background-color: #80a0d0;
+  border-radius: 60px;
+  position: absolute;
+}
+.blok_backgound_1 {
+  width: 30vw;
+  height: 30vw;
+  background-color: #ebe0e0;
+  border-radius: 60px;
+  position: absolute;
+  margin-left: 10vw;
+}
+.blok_text2 {
+  margin-left: 61vw;
+  width: 30vw;
+  height: 30vw;
+  background-color: #e3c7ca;
+  border-radius: 60px;
+  position: absolute;
+}
+.blok_backgound_2 {
+  margin-left: 60vw;
+  width: 30vw;
+  height: 30vw;
+  background-color: #ebe0e0;
+  border-radius: 60px;
+  position: absolute;
+}
+
+.blok_1 {
+  position: relative;
+}
+
+.blok_2 {
+  position: relative;
 }
 /* 
 .forma {

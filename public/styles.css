@@ -504,7 +504,7 @@ textarea {
 
 .crivaya_line {
   margin-top: 16vh;
-  margin-left: 7vw;
+  margin-left: 9vw;
 }
 
 .girl {
@@ -524,8 +524,15 @@ textarea {
 
 .girl_text_box{
   width: 62vw;
-  margin-left: 5vw;
+  margin-left: 3vw;
   margin-top: 8vh;
+}
+
+.price{
+  font-size: 50px;
+  font-family: "Bad Script", cursive;
+  margin-left: 5vw;
+  margin-top: 13vh;
 }
 /* 
 .forma {

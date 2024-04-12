@@ -57,9 +57,15 @@ textarea {
   font-family: "Bad Script", cursive;
 }
 
+.form_box {
+  width: 40vw;
+  margin-left: 4vw;
+  padding-top: 2vh;
+}
+
 .form_name {
   border-bottom: white 2px solid;
-  width: 28vw;
+  width: 36vw;
   margin-left: 2vw;
   margin-top: 3vh;
 }
@@ -67,20 +73,25 @@ textarea {
 .form_phone {
   border-bottom: white 2px solid;
   margin-left: 2vw;
-  width: 13vw;
+  width: 17vw;
 }
 
 .form_email {
   border-bottom: white 2px solid;
   margin-left: 2vw;
-  width: 13vw;
+  width: 17vw;
 }
 
 .form_comment {
   border-bottom: white 2px solid;
-  width: 28vw;
+  width: 36vw;
   margin-left: 2vw;
-  margin-top: 5vh;
+  margin-top: 6vh;
+}
+
+.forma_box_flex {
+  display: flex;
+  margin-top: 6vh;
 }
 
 .send {
@@ -595,6 +606,112 @@ textarea {
 .pizdets {
   margin-left: 5vw;
   margin-top: 6vh;
+}
+
+.list_grup {
+  display: flex;
+  justify-content: space-between;
+}
+
+.education {
+  font-size: 50px;
+  font-family: "Bad Script", cursive;
+  margin-left: 4vw;
+  margin-top: 10vh;
+}
+
+.text_education {
+  margin-top: 5vh;
+  margin-left: 1vw;
+}
+
+.textEducation {
+  font-size: 28px;
+}
+
+.year_line {
+  margin-top: 5.4vh;
+  margin-left: 4vw;
+  height: 19vw;
+}
+
+.shishka {
+  width: 22vw;
+}
+
+.educationGrup {
+  display: flex;
+}
+
+.forma {
+  box-shadow: 5px 5px 15px grey;
+  background-color: #8ba7d3;
+  width: 80vw;
+  height: 37vw;
+  margin-left: 10vw;
+  border-radius: 26px;
+  margin-top: 24vh;
+}
+
+.pismo {
+  margin-left: 36.5vw;
+}
+
+.bacground_forma {
+  background-color: #adbbdd;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  margin-top: 13vh;
+}
+
+.how_to_contact {
+  font-family: "Jost", sans-serif;
+  font-size: 46px;
+  color: white;
+  margin-left: 13vw;
+  padding-top: 4vh;
+}
+
+.flex_contact {
+  display: flex;
+}
+
+.contact_text {
+  color: white;
+  margin-left: 17vw;
+  padding-top: 4vh;
+  font-family: "Jost", sans-serif;
+  font-size: 46px;
+}
+
+.button_zap {
+  width: 18vw;
+  height: 6.3vh;
+  margin-left: 11vw;
+  margin-top: 7vh;
+  border-radius: 27px;
+  background-color: rgba(255, 255, 255, 0.31);
+  border: none;
+}
+
+.info_flex {
+  display: flex;
+}
+
+.info {
+  background-color: #9bb6e0;
+  width: 22vw;
+  height: 26vw;
+  margin-left: 6vw;
+  margin-top: 3vh;
+  border-radius: 20px;
+}
+
+.logo_form {
+  margin-left: 7vw;
+  margin-top: 3vh;
+  width: 8vw;
 }
 /* 
 .forma {
